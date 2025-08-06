@@ -1,4 +1,4 @@
-### Hi there 👋😄 
+
 # 👋 Welcome to my GitHub!
 Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of experience in:
 
