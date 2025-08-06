@@ -61,13 +61,31 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
 
 
 ### 🛢️ Databases  
-<p align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-D32F2F?style=for-the-badge&logo=redis&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noopener">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</a>
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank" rel="noopener">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</a>
+
+<!-- DynamoDB -->
+<a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noopener">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="DynamoDB" width="40" height="40"/>
+</a>
+
+<!-- Redis -->
+<a href="https://redis.io/" target="_blank" rel="noopener">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+</a>
+
+<!-- SQLite -->
+<a href="https://www.sqlite.org/" target="_blank" rel="noopener">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+</a>
+
 
 
 ### ⚙️ DevOps & Cloud  
