@@ -24,7 +24,7 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
 - 💼 [Shruti's Portfolio]()
 - 📄 [View My Resume]()  
 
-  ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 🧠 AI & GenAI
 - Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering
@@ -83,14 +83,36 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
 
 
 ### ⚙️ DevOps & Cloud  
-<p align="left">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img alt="GitLab CI/CD" src="https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F2044?style=for-the-badge&logo=helm&logoColor=white" />
-   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-</p>
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank" rel="noopener">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</a>
+
+<!-- Kubernetes -->
+<a href="https://kubernetes.io/" target="_blank" rel="noopener">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+</a>
+
+<!-- Jenkins -->
+<a href="https://www.jenkins.io/" target="_blank" rel="noopener">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+</a>
+
+<!-- GitLab -->
+<a href="https://about.gitlab.com/" target="_blank" rel="noopener">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+</a>
+
+<!-- Helm -->
+<a href="https://helm.sh/" target="_blank" rel="noopener">
+  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/>
+</a>
+
+<!-- AWS -->
+<a href="https://aws.amazon.com/" target="_blank" rel="noopener">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+</a>
+
 
 
 ### 🧬 HPC & Scientific Computing
