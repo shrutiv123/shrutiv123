@@ -25,6 +25,17 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
 - 📄 [View My Resume]()  
 
   ## 🛠️ Tech Stack
+### Programming Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
 ### 🧠 AI & GenAI
 - Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering
