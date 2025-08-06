@@ -38,8 +38,8 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
 ### 🧠 AI & GenAI
 - Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering
 - Pytorch, Vector Databases, Embedding Pipelines
-  
-### Programming Languages  
+- 
+### 💻 Programming Languages
 <p>
   <a href="https://www.python.org/" target="_blank" rel="noopener">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
