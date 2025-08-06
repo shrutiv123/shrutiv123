@@ -20,14 +20,14 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
 
 ## 🚀 About Me
 
- 🔧 Experienced in designing and developing **microservices-based full stack apps**
- 🧠 Built **LLM-powered intelligent systems** using **Retrieval-Augmented Generation (RAG)** for real-world search and document understanding
- 🌍 Developed and deployed massively **parallel scientific codes** for HPC clusters using **C++, MPI, and OpenMP**
- 🧪 Advocate of **Test-Driven Development**, CI/CD automation, and performance tuning
- ☁️ Skilled in modern **Cloud & DevOps tools** – Docker, AWS, Kubernetes, Prometheus
- 📈 Passionate about using data and AI to solve real-world problems
- 💼 [Shruti's Portfolio]()
- 📄 [View My Resume]()
+ -🔧 Experienced in designing and developing **microservices-based full stack apps**
+ -🧠 Built **LLM-powered intelligent systems** using **Retrieval-Augmented Generation (RAG)** for real-world search and document understanding
+ -🌍 Developed and deployed massively **parallel scientific codes** for HPC clusters using **C++, MPI, and OpenMP**
+ -🧪 Advocate of **Test-Driven Development**, CI/CD automation, and performance tuning
+ -☁️ Skilled in modern **Cloud & DevOps tools** – Docker, AWS, Kubernetes, Prometheus
+ -📈 Passionate about using data and AI to solve real-world problems
+ -💼 [Shruti's Portfolio]()
+ - [View My Resume]()
 
 ## 🌐 Contact Information
 
