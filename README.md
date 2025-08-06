@@ -18,6 +18,8 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
 - 🧪 Advocate of **Test-Driven Development**, CI/CD automation, and performance tuning
 - ☁️ Skilled in modern **Cloud & DevOps tools** – Docker, AWS, Kubernetes, Prometheus
 - 📈 Passionate about using data and AI to solve real-world problems
+- 💼 [Shruti's Portfolio]()
+- 📄 [View My Resume]()
 
 ## 🌐 Contact Information
 
@@ -29,8 +31,7 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
-- 💼 [Shruti's Portfolio]()
-- 📄 [View My Resume]()
+
 
 ## 🛠️ Tech Stack
 
