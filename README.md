@@ -71,12 +71,6 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </a>
 
-<!-- DynamoDB -->
-<a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noopener">
-  <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/v14.0/LargeIcons/DynamoDB.png" alt="DynamoDB" width="40" height="40"/>
-</a>
-
-
 <!-- Redis -->
 <a href="https://redis.io/" target="_blank" rel="noopener">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
@@ -86,7 +80,6 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
 <a href="https://www.sqlite.org/" target="_blank" rel="noopener">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
 </a>
-
 
 
 ### ⚙️ DevOps & Cloud  
