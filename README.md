@@ -112,14 +112,6 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" width="40" height="40"/>
 </a>
 
-<a href="https://aws.amazon.com/" target="_blank" rel="noopener">
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="40" height="40"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank" rel="noopener">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
-</a>
-
 
 
 ### 🧬 HPC & Scientific Computing
