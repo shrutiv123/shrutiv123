@@ -27,7 +27,7 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
  - ☁️ Skilled in modern **Cloud & DevOps tools** – Docker, AWS, Kubernetes, Prometheus
  - 📈 Passionate about using data and AI to solve real-world problems
  - 💼 [Shruti's Portfolio]()
- - [View My Resume]()
+ - 📑 [View My Resume]()
 
 ## 🌐 Contact Information
 
