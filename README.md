@@ -7,6 +7,14 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
 - Design and Implementation of Scalable Distributed Systems
 - Writing Robust Test Suites and Validating Production-Ready Software
 
+### 🚀 What I'm Up To
+
+🔭 Currently building with **LLMs & GenAI**, focusing on prompt engineering, RAG, and fine-tuning for intelligent assistants.
+
+🌱 Learning about **Agentic AI** and famous autonomous agents like LangChain Agents, AutoGPT, CrewAI, MetaGPT, and AgentVerse.
+
+💬 Ask me about **Algorithms, SQL/NoSQL Databases, Software Development, Distributed Systems, or AI**.
+
 ## 🎓 Education
 🏫 Have **Master’s in Computer Science** from **North Carolina State University**.
 
