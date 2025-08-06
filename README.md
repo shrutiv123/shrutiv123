@@ -73,8 +73,9 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
 
 <!-- DynamoDB -->
 <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noopener">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="DynamoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/v14.0/LargeIcons/DynamoDB.png" alt="DynamoDB" width="40" height="40"/>
 </a>
+
 
 <!-- Redis -->
 <a href="https://redis.io/" target="_blank" rel="noopener">
