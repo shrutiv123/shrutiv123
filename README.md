@@ -41,16 +41,31 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
 - Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering
 - Pytorch, Vector Databases, Embedding Pipelines
 
-### 💻 Full Stack Development
-- Java (Spring Boot), Python (FastAPI), JavaScript
-- REST APIs, Microservices Architecture, WebSocket, GraphQL
+### 🛢️ Databases  
+<p align="left">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-D32F2F?style=for-the-badge&logo=redis&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-### 🛢️ Databases
-- MySQL, PostgreSQL, DynamoDB, Redis
 
-### ⚙️ DevOps & Cloud
-- AWS (Lambda, EC2, S3, EKS, SNS, SQS)
-- Docker, Kubernetes, Jenkins, GitLab CI/CD, Helm, Infrastructure as Code
+### ⚙️ DevOps & Cloud  
+<p align="left">
+  <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img alt="AWS EC2" src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="AWS S3" src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img alt="AWS EKS" src="https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="AWS SNS" src="https://img.shields.io/badge/AWS_SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="AWS SQS" src="https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img alt="GitLab CI/CD" src="https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F2044?style=for-the-badge&logo=helm&logoColor=white" />
+</p>
+
 
 ### 🧬 HPC & Scientific Computing
 - C++, MPI, OpenMP, Slurm, Parallel Computing
