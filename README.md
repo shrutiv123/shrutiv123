@@ -25,13 +25,12 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
 </a>
 
-<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/shruti-verma-095a/" target="_blank" rel="noopener">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
-💼 [Shruti's Portfolio]()
-📄 [View My Resume]()
+- 💼 [Shruti's Portfolio]()
+- 📄 [View My Resume]()
 
 ## 🛠️ Tech Stack
 
