@@ -25,9 +25,12 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
 - 📄 [View My Resume]()  
 
   ## 🛠️ Tech Stack
-### Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### 🧠 AI & GenAI
+- Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering
+- Pytorch, Vector Databases, Embedding Pipelines
+- 
+### Programming Languages  
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -38,9 +41,6 @@ Hi, I'm **Shruti** — a **Software Development Engineer** with 4+ years of expe
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-### 🧠 AI & GenAI
-- Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering
-- Pytorch, Vector Databases, Embedding Pipelines
 
 ### 🛢️ Databases  
 <p align="left">
